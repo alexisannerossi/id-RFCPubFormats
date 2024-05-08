@@ -1,6 +1,6 @@
 ---
-title: "TODO - Your title"
-abbrev: "TODO - Abbreviation"
+title: "Implementation of RFC Publication Formats"
+abbrev: "RFCPubFormats"
 category: info
 
 docname: draft-rossi-rfcpubformats-latest
