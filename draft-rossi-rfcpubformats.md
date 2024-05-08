@@ -12,9 +12,7 @@ v: 3
 # area: AREA
 # workgroup: WG Working Group
 keyword:
- - next generation
- - unicorn
- - sparkling distributed ledger
+ - RFC Publication Formats
 venue:
 #  group: WG
 #  type: Working Group
@@ -26,8 +24,8 @@ venue:
 author:
  -
     fullname: "Alexis Rossi"
-    organization: Your Organization Here
-    email: "112729490+alexisannerossi@users.noreply.github.com"
+    organization: RFC Series Consulting Editor
+    email: "rsce@rfc-editor.org"
 
 normative:
 
@@ -36,7 +34,7 @@ informative:
 
 --- abstract
 
-TODO Abstract
+This document assigns responsibility for the code level implementation decisions for RFC publication formats (currently HTML, PDF, and TXT), the CSS file, and SVG files to the Tools Team and the RPC. It assigns responsibility for defining high level design requirements for the RFC publication formats, CSS, and SVG files to the RSWG. This document updates RFC7992, RFC7993, RFC7994, RFC7995, and RFC7996. This document makes no changes to the RFCXML format described in RFC7991 or subsequent documents.
 
 
 --- middle
