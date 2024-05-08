@@ -1,6 +1,6 @@
 # Implementation of RFC Publication Formats
 
-This is the working area for the individual Internet-Draft, "TODO - Your title".
+This is the working area for the individual Internet-Draft, "Implementation of RFC Publication Formats".
 
 * [Editor's Copy](https://alexisannerossi.github.io/id-RFCPubFormats/#go.draft-rossi-rfcpubformats.html)
 * [Datatracker Page](https://datatracker.ietf.org/doc/draft-rossi-rfcpubformats)
