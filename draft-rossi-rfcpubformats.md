@@ -15,10 +15,10 @@ keyword:
  - RFC Publication Formats
 
 venue:
-#  group: WG
+#  group: RSWG
 #  type: Working Group
-#  mail: WG@example.com
-#  arch: https://example.com/WG
+#  mail: rswg@rfc-editor.org
+#  arch: https://datatracker.ietf.org/edwg/rswg/about/G
   github: "alexisannerossi/id-RFCPubFormats"
   latest: "https://alexisannerossi.github.io/id-RFCPubFormats/draft-rossi-rfcpubformats.html"
 
