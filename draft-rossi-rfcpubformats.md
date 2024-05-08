@@ -18,7 +18,7 @@ venue:
 #  group: RSWG
 #  type: Working Group
 #  mail: rswg@rfc-editor.org
-#  arch: https://datatracker.ietf.org/edwg/rswg/about/G
+#  arch: https://datatracker.ietf.org/edwg/rswg/about/
   github: "alexisannerossi/id-RFCPubFormats"
   latest: "https://alexisannerossi.github.io/id-RFCPubFormats/draft-rossi-rfcpubformats.html"
 
