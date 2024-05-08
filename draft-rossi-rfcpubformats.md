@@ -90,12 +90,6 @@ The community is invited to participate in the Tools Team to work on the impleme
 If there is disagreement among the community, the Tools Team, or the RPC about how an RFC publication format is implemented then this is considered a disagreement about interpretation of the relevant policy and should be addressed by the RFC Series Approval Board (RSAB) as set out in RFC9280. The matter should be brought to the RSAB by the RPC and the RSAB will evaluate the issue(s) and follow its processes documented in RFC9280 or subsequent relevant RFCs.
 
 
-
-# Conventions and Definitions
-
-{::boilerplate bcp14-tagged}
-
-
 # Security Considerations
 
 Changes to the publication formats of RFCs introduce risk. A risk is that unintended changes could occur in publication versions of an RFC as a result of an unintentional bug. This may result in the corruption of a standard, practice, or critical piece of information about a protocol, and harm to the reputation of the RFC series. However, nothing in this document changes the definitive RFCXML format, so risk is limited to the publication formats and versions.
