@@ -15,10 +15,10 @@ keyword:
  - RFC Publication Formats
 
 venue:
-#  group: WG
+#  group: RSWG
 #  type: Working Group
-#  mail: WG@example.com
-#  arch: https://example.com/WG
+#  mail: rswg@rfc-editor.org
+#  arch: https://datatracker.ietf.org/edwg/rswg/
   github: "alexisannerossi/id-RFCPubFormats"
   latest: "https://alexisannerossi.github.io/id-RFCPubFormats/draft-rossi-rfcpubformats.html"
 
@@ -35,7 +35,7 @@ informative:
 
 --- abstract
 
-This test document assigns responsibility for the code level implementation decisions for RFC publication formats (currently HTML, PDF, and TXT), the CSS file, and SVG files to the Tools Team and the RPC. It assigns responsibility for defining high level design requirements for the RFC publication formats, CSS, and SVG files to the RSWG. This document updates RFC7992, RFC7993, RFC7994, RFC7995, and RFC7996. This document makes no changes to the RFCXML format described in RFC7991 or subsequent documents.
+This document assigns responsibility for the code level implementation decisions for RFC publication formats (currently HTML, PDF, and TXT), the CSS file, and SVG files to the Tools Team and the RPC. It assigns responsibility for defining high level design requirements for the RFC publication formats, CSS, and SVG files to the RSWG. This document updates RFC7992, RFC7993, RFC7994, RFC7995, and RFC7996. This document makes no changes to the RFCXML format described in RFC7991 or subsequent documents.
 
 
 --- middle
