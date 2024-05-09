@@ -13,7 +13,7 @@ Expires: 10 November 2024
 
 Abstract
 
-   This test document assigns responsibility for the code level
+   This document assigns responsibility for the code level
    implementation decisions for RFC publication formats (currently HTML,
    PDF, and TXT), the CSS file, and SVG files to the Tools Team and the
    RPC.  It assigns responsibility for defining high level design
