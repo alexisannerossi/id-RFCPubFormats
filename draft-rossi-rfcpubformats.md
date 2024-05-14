@@ -38,7 +38,6 @@ RFC7996:
 
 informative:
 RFC7990:
-RFC7990bis:
 RFC7991:
 RFC9280:
 
@@ -64,7 +63,7 @@ The Tools Team will maintain public documentation of the currently implemented f
 Changes to the implementation of publication formats will be announced via the Tools Team mailing list. They may also be announced on the rfc-interest and rswg mailing lists if there are changes that are likely to affect the whole community.
 
 ## Relation to RFC 7990bis
-{{?RFC7990bis}} obsoletes {{?RFC7990]}}, which contained some requirements for RFC publication formats. RFC7990bis does not specify code level implementation details that affect RFC publication formats, so that document does not affect the decisions in this RFC.
+RFC7990bis obsoletes {{?RFC7990]}}, which contained some requirements for RFC publication formats. RFC7990bis does not specify code level implementation details that affect RFC publication formats, so that document does not affect the decisions in this RFC.
 
 ## Changes to RFC 7992
 Section 2 of {{!RFC7992}} provides high level design requirements for the HTML format. These requirements remain in effect.
