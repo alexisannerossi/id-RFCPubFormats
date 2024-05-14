@@ -92,8 +92,7 @@ Table of Contents
    (RSWG), but code level implementation decisions will now be made by
    the Tools Team and the RFC Production Center (RPC).  This document
    specifically does not change anything about the definitive RFCXML
-   format described in RFC7991 (https://www.rfc-editor.org/info/rfc7991)
-   or subsequent documents.
+   format described in [RFC7991] or subsequent documents.
 
    Changes to the HTML and PDF publication formats are expected in the
    near future to allow accessibility improvements, and a new HTML
@@ -119,18 +118,15 @@ Table of Contents
 
 1.1.  Relation to RFC 7990bis
 
-   RFC7990bis (https://datatracker.ietf.org/doc/draft-rswg-
-   rfc7990-updates/09/) obsoletes RFC7990 (https://www.rfc-
-   editor.org/info/rfc7990), which contained some requirements for RFC
-   publication formats.  RFC7990bis does not specify code level
+   [RFC7990bis] obsoletes [RFC7990], which contained some requirements
+   for RFC publication formats.  RFC7990bis does not specify code level
    implementation details that affect RFC publication formats, so that
    document does not affect the decisions in this RFC.
 
 1.2.  Changes to RFC 7992
 
-   Section 2 of RFC7992 (https://www.rfc-editor.org/info/rfc7992)
-   provides high level design requirements for the HTML format.  These
-   requirements remain in effect.
+   Section 2 of [RFC7992] provides high level design requirements for
+   the HTML format.  These requirements remain in effect.
 
    Sections 3 through 9 of RFC7992 provide more detailed implementation
    decisions for the HTML publication format.  These are now considered
@@ -139,9 +135,8 @@ Table of Contents
 
 1.3.  Changes to RFC 7993
 
-   Sections 2 and 3 of RFC7993 (https://www.rfc-editor.org/info/rfc7993)
-   provide high level requirements for the CSS file.  These requirements
-   remain in effect.
+   Sections 2 and 3 of [RFC7993] provide high level requirements for the
+   CSS file.  These requirements remain in effect.
 
    Sections 4 through 7 of RFC7993 provide more detailed implementation
    decisions for the CSS file.  These are now considered to be
@@ -150,26 +145,24 @@ Table of Contents
 
 1.4.  Changes to RFC 7994
 
-   RFC7994 (https://www.rfc-editor.org/info/rfc7994) outlines
-   requirements for the TXT publication format.  This document is now
-   considered to be implementation recommendations from the community,
-   and will be treated as such by the implementers of the TXT
-   publication format in the future.
+   [RFC7994] outlines requirements for the TXT publication format.  This
+   document is now considered to be implementation recommendations from
+   the community, and will be treated as such by the implementers of the
+   TXT publication format in the future.
 
 1.5.  Changes to RFC 7995
 
-   RFC7995 (https://www.rfc-editor.org/info/rfc7995) outlines
-   requirements for the PDF publication format.  This document is now
-   considered to be implementation recommendations from the community,
-   and will be treated as such by the implementers of the PDF
-   publication format in the future.
+   [RFC7995] outlines requirements for the PDF publication format.  This
+   document is now considered to be implementation recommendations from
+   the community, and will be treated as such by the implementers of the
+   PDF publication format in the future.
 
 1.6.  Changes to RFC 7996
 
-   RFC7996 (https://www.rfc-editor.org/info/rfc7996) outlines
-   requirements for SVG files.  This document is now considered to be
-   implementation recommendations from the community, and will be
-   treated as such by the implementers of the SVG tools in the future.
+   [RFC7996] outlines requirements for SVG files.  This document is now
+   considered to be implementation recommendations from the community,
+   and will be treated as such by the implementers of the SVG tools in
+   the future.
 
    It is recommended that the RSWG define the design requirements (not
    implementation details) for SVGs in a future RFC in consultation with
@@ -220,9 +213,9 @@ Table of Contents
    RPC about how an RFC publication format is implemented then this is
    considered a disagreement about interpretation of the relevant policy
    and should be addressed by the RFC Series Approval Board (RSAB) as
-   set out in RFC9280.  The matter should be brought to the RSAB by the
-   RPC and the RSAB will evaluate the issue(s) and follow its processes
-   documented in RFC9280 or subsequent relevant RFCs.
+   set out in [RFC9280].  The matter should be brought to the RSAB by
+   the RPC and the RSAB will evaluate the issue(s) and follow its
+   processes documented in RFC9280 or subsequent relevant RFCs.
 
 5.  Security Considerations
 
