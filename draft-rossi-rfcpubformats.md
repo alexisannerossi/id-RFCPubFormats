@@ -13,6 +13,7 @@ v: 3
 # workgroup: WG Working Group
 keyword:
  - RFC Publication Formats
+updates: 7992,7993,7994,7995,7996
 
 venue:
 #  group: RSWG
