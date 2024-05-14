@@ -118,6 +118,6 @@ This document has no IANA actions.
 # Acknowledgments
 {:numbered="false"}
 
-The planning and work that went into the creation of RFC 7992, RFC 7993, RFC 7994, and RFC 7995 was invaluable and will continue to be the basis of how publication formats are created moving forward.
+The planning and work that went into the creation of RFC7992, RFC7993, RFC7994, RFC7995, and RFC7996 was invaluable and will continue to be the basis of how publication formats are created moving forward.
 
-Thank you to the authors and editors of these documents: Heather Flanagan, Joe Hildebrand, Paul Hoffman, Tony Hansen, Larry Masinter, and Matthew Hardy. Also, thanks are owed to the RFC Format Design Team for their efforts: Nevil Brownlee (ISE), Tony Hansen, Joe Hildebrand, Paul Hoffman, Ted Lemon, Julian Reschke, Adam Roach, Alice Russo, Robert Sparks (Tools Team liaison), and Dave Thaler.
+Thank you to the authors and editors of these documents: Heather Flanagan, Joe Hildebrand, Paul Hoffman, Tony Hansen, Larry Masinter, Matthew Hardy, and Nevil Brownlee. Also, thanks are owed to the RFC Format Design Team for their efforts: Nevil Brownlee (ISE), Tony Hansen, Joe Hildebrand, Paul Hoffman, Ted Lemon, Julian Reschke, Adam Roach, Alice Russo, Robert Sparks (Tools Team liaison), and Dave Thaler.
