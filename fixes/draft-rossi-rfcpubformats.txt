@@ -80,6 +80,9 @@ Table of Contents
    4.  Dispute Resolution
    5.  Security Considerations
    6.  IANA Considerations
+   7.  References
+     7.1.  Normative References
+     7.2.  Informative References
    Acknowledgments
    Author's Address
 
@@ -118,8 +121,8 @@ Table of Contents
 
 1.1.  Relation to RFC 7990bis
 
-   [RFC7990bis] obsoletes [RFC7990], which contained some requirements
-   for RFC publication formats.  RFC7990bis does not specify code level
+   RFC7990bis obsoletes [RFC7990], which contained some requirements for
+   RFC publication formats.  RFC7990bis does not specify code level
    implementation details that affect RFC publication formats, so that
    document does not affect the decisions in this RFC.
 
@@ -189,8 +192,8 @@ Table of Contents
    of those tags, the order in which the tags must be used, etc.
 
    As a specific example to illustrate this difference further, we can
-   look at RFC7992.  Section 2 lists a high level design requirement for
-   the HTML this way: “All sections, subsections, figures, and
+   look at [RFC7992].  Section 2 lists a high level design requirement
+   for the HTML this way: “All sections, subsections, figures, and
    paragraphs should have stable numbered link anchors.  Additionally,
    anchors expressed in the source XML should be exposed as anchors in
    the HTML output as well.” Section 5.2 of that same document is a more
@@ -234,6 +237,44 @@ Table of Contents
 
    This document has no IANA actions.
 
+7.  References
+
+7.1.  Normative References
+
+   [RFC7992]  Hildebrand, J., Ed. and P. Hoffman, "HTML Format for
+              RFCs", RFC 7992, DOI 10.17487/RFC7992, December 2016,
+              <https://www.rfc-editor.org/rfc/rfc7992>.
+
+   [RFC7993]  Flanagan, H., "Cascading Style Sheets (CSS) Requirements
+              for RFCs", RFC 7993, DOI 10.17487/RFC7993, December 2016,
+              <https://www.rfc-editor.org/rfc/rfc7993>.
+
+   [RFC7994]  Flanagan, H., "Requirements for Plain-Text RFCs",
+              RFC 7994, DOI 10.17487/RFC7994, December 2016,
+              <https://www.rfc-editor.org/rfc/rfc7994>.
+
+   [RFC7995]  Hansen, T., Ed., Masinter, L., and M. Hardy, "PDF Format
+              for RFCs", RFC 7995, DOI 10.17487/RFC7995, December 2016,
+              <https://www.rfc-editor.org/rfc/rfc7995>.
+
+   [RFC7996]  Brownlee, N., "SVG Drawings for RFCs: SVG 1.2 RFC",
+              RFC 7996, DOI 10.17487/RFC7996, December 2016,
+              <https://www.rfc-editor.org/rfc/rfc7996>.
+
+7.2.  Informative References
+
+   [RFC7990]  Flanagan, H., "RFC Format Framework", RFC 7990,
+              DOI 10.17487/RFC7990, December 2016,
+              <https://www.rfc-editor.org/rfc/rfc7990>.
+
+   [RFC7991]  Hoffman, P., "The "xml2rfc" Version 3 Vocabulary",
+              RFC 7991, DOI 10.17487/RFC7991, December 2016,
+              <https://www.rfc-editor.org/rfc/rfc7991>.
+
+   [RFC9280]  Saint-Andre, P., Ed., "RFC Editor Model (Version 3)",
+              RFC 9280, DOI 10.17487/RFC9280, June 2022,
+              <https://www.rfc-editor.org/rfc/rfc9280>.
+
 Acknowledgments
 
    The planning and work that went into the creation of RFC7992,
@@ -253,4 +294,4 @@ Author's Address
 
    Alexis Rossi
    RFC Series Consulting Editor
-   Email: alexisannerossi@gmail.com
+   Email: rsce@rfc-editor.org
