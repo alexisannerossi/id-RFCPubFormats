@@ -27,7 +27,7 @@ author:
  -
     fullname: "Alexis Rossi"
     organization: RFC Series Consulting Editor
-    email: "rsce@rfc-editor.org"
+    email: "alexisannerossi@gmail.com"
 
 normative:
 RFC7992:
