@@ -37,6 +37,8 @@ RFC7995:
 RFC7996:
 
 informative:
+RFC7990:
+RFC7990bis:
 RFC7991:
 RFC9280:
 
@@ -51,7 +53,7 @@ This document assigns responsibility for the code level implementation decisions
 
 # Introduction
 
-The intent of this document is to allow the code level implementation of RFC publication formats to evolve without requiring the publication of new RFCs. High level design requirements for publication formats are determined by the RFC Series Working Group (RSWG), but code level implementation decisions will now be made by the Tools Team and the RFC Production Center (RPC). This document specifically does not change anything about the definitive RFCXML format described in [RFC7991](https://www.rfc-editor.org/info/rfc7991) or subsequent documents.
+The intent of this document is to allow the code level implementation of RFC publication formats to evolve without requiring the publication of new RFCs. High level design requirements for publication formats are determined by the RFC Series Working Group (RSWG), but code level implementation decisions will now be made by the Tools Team and the RFC Production Center (RPC). This document specifically does not change anything about the definitive RFCXML format described in [RFC7991] or subsequent documents.
 
 Changes to the HTML and PDF publication formats are expected in the near future to allow accessibility improvements, and a new HTML version will be used on rfc-editor.org at the RFC “info” pages after a planned site redesign. This document also allows for other implementation changes that may arise for other reasons.
 
@@ -62,26 +64,26 @@ The Tools Team will maintain public documentation of the currently implemented f
 Changes to the implementation of publication formats will be announced via the Tools Team mailing list. They may also be announced on the rfc-interest and rswg mailing lists if there are changes that are likely to affect the whole community.
 
 ## Relation to RFC 7990bis
-[RFC7990bis](https://datatracker.ietf.org/doc/draft-rswg-rfc7990-updates/09/) obsoletes [RFC7990](https://www.rfc-editor.org/info/rfc7990), which contained some requirements for RFC publication formats. RFC7990bis does not specify code level implementation details that affect RFC publication formats, so that document does not affect the decisions in this RFC.
+[RFC7990bis] obsoletes [RFC7990], which contained some requirements for RFC publication formats. RFC7990bis does not specify code level implementation details that affect RFC publication formats, so that document does not affect the decisions in this RFC.
 
 ## Changes to RFC 7992
-Section 2 of [RFC7992](https://www.rfc-editor.org/info/rfc7992) provides high level design requirements for the HTML format. These requirements remain in effect.
+Section 2 of [RFC7992] provides high level design requirements for the HTML format. These requirements remain in effect.
 
 Sections 3 through 9 of RFC7992 provide more detailed implementation decisions for the HTML publication format. These are now considered to be recommendations from the community, and will be treated as such by the implementers of the HTML publication format in the future.
 
 ## Changes to RFC 7993
-Sections 2 and 3 of [RFC7993](https://www.rfc-editor.org/info/rfc7993) provide high level requirements for the CSS file. These requirements remain in effect.
+Sections 2 and 3 of [RFC7993] provide high level requirements for the CSS file. These requirements remain in effect.
 
 Sections 4 through 7 of RFC7993 provide more detailed implementation decisions for the CSS file. These are now considered to be recommendations from the community, and will be treated as such by the implementers of the CSS file in the future.
 
 ## Changes to RFC 7994
-[RFC7994](https://www.rfc-editor.org/info/rfc7994) outlines requirements for the TXT publication format. This document is now considered to be implementation recommendations from the community, and will be treated as such by the implementers of the TXT publication format in the future.
+[RFC7994] outlines requirements for the TXT publication format. This document is now considered to be implementation recommendations from the community, and will be treated as such by the implementers of the TXT publication format in the future.
 
 ## Changes to RFC 7995
-[RFC7995](https://www.rfc-editor.org/info/rfc7995) outlines requirements for the PDF publication format. This document is now considered to be implementation recommendations from the community, and will be treated as such by the implementers of the PDF publication format in the future.
+[RFC7995] outlines requirements for the PDF publication format. This document is now considered to be implementation recommendations from the community, and will be treated as such by the implementers of the PDF publication format in the future.
 
 ## Changes to RFC 7996
-[RFC7996](https://www.rfc-editor.org/info/rfc7996) outlines requirements for SVG files. This document is now considered to be implementation recommendations from the community, and will be treated as such by the implementers of the SVG tools in the future.
+[RFC7996] outlines requirements for SVG files. This document is now considered to be implementation recommendations from the community, and will be treated as such by the implementers of the SVG tools in the future.
 
 It is recommended that the RSWG define the design requirements (not implementation details) for SVGs in a future RFC in consultation with technical and accessibility experts. Until that time, the RPC may choose at their discretion to continue to view some elements of RFC7996 as requirements if needed. We expect, for example, that SVGs will be black and white only until or unless that is specifically changed by new design requirements.
 
@@ -96,7 +98,7 @@ As a specific example to illustrate this difference further, we can look at RFC7
 The community is invited to participate in the Tools Team to work on the implementation of RFC publication formats. This team currently uses the tools-discuss@ietf.org mailing list and Github at https://github.com/ietf-tools for communication and implementation, but may move to another public space as needed in the future. The Tools Team may choose to provide documentation for publication format implementation details at Github or another location.
 
 # Dispute Resolution
-If there is disagreement among the community, the Tools Team, or the RPC about how an RFC publication format is implemented then this is considered a disagreement about interpretation of the relevant policy and should be addressed by the RFC Series Approval Board (RSAB) as set out in RFC9280. The matter should be brought to the RSAB by the RPC and the RSAB will evaluate the issue(s) and follow its processes documented in RFC9280 or subsequent relevant RFCs.
+If there is disagreement among the community, the Tools Team, or the RPC about how an RFC publication format is implemented then this is considered a disagreement about interpretation of the relevant policy and should be addressed by the RFC Series Approval Board (RSAB) as set out in [RFC9280]. The matter should be brought to the RSAB by the RPC and the RSAB will evaluate the issue(s) and follow its processes documented in RFC9280 or subsequent relevant RFCs.
 
 
 # Security Considerations
