@@ -4,7 +4,7 @@ abbrev: "RFCPubFormats"
 category: info
 
 docname: draft-rossi-rfcpubformats-latest
-submissiontype: IETF  # also: "independent", "editorial", "IAB", or "IRTF"
+submissiontype: editorial
 number:
 date:
 consensus: true
@@ -15,10 +15,10 @@ keyword:
  - RFC Publication Formats
 
 venue:
-#  group: WG
+#  group: RSWG
 #  type: Working Group
-#  mail: WG@example.com
-#  arch: https://example.com/WG
+#  mail: rswg@rfc-editor.org
+#  arch: https://datatracker.ietf.org/edwg/rswg/
   github: "alexisannerossi/id-RFCPubFormats"
   latest: "https://alexisannerossi.github.io/id-RFCPubFormats/draft-rossi-rfcpubformats.html"
 
