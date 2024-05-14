@@ -4,7 +4,7 @@ abbrev: "RFCPubFormats"
 category: info
 
 docname: draft-rossi-rfcpubformats-latest
-submissiontype: editorial
+submissiontype: IETF  # also: "independent", "editorial", "IAB", or "IRTF"
 number:
 date:
 consensus: true
