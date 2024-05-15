@@ -13,7 +13,7 @@ v: 3
 # workgroup: WG Working Group
 keyword:
  - RFC Publication Formats
-updates: 7992,7993,7994,7995,7996
+updates: 7992, 7993, 7994, 7995, 7996
 
 venue:
 #  group: RSWG
@@ -28,19 +28,6 @@ author:
     fullname: "Alexis Rossi"
     organization: RFC Series Consulting Editor
     email: "rsce@rfc-editor.org"
-
-normative:
-RFC7992:
-RFC7993:
-RFC7994:
-RFC7995:
-RFC7996:
-
-informative:
-RFC7990:
-RFC7991:
-RFC9280:
-
 
 --- abstract
 
